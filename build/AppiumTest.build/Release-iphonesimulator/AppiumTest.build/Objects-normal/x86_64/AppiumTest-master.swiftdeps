@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "4f597d0cbc85e6f0ec811e4dc972e838"
+build_time: [1589717483, 63134000]
+inputs:
+  "/Users/sandeep/Downloads/appium-ios-basic-master/final/AppiumTest/ViewController.swift": [9223372036, 854775807]
+  "/Users/sandeep/Downloads/appium-ios-basic-master/final/AppiumTest/AppDelegate.swift": [9223372036, 854775807]
